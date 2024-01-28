@@ -1,0 +1,10 @@
+{
+    "name": "scratch",
+    "version": "1.0.0",
+    "description": "test",
+    "license": "MIT",
+    "private": false,
+    "scripts": {
+      "semantic-release": "semantic-release"
+    }
+  }
