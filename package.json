@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "",
   "license": "ISC",
+  "private": true,
   "devDependencies": {
     "@semantic-release/github": "^9.2.6",
     "git-cz": "^4.9.0",
